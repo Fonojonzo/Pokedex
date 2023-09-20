@@ -12,7 +12,8 @@ Com a conexão, o usuário consegue pesquisar o Pokemón que desejar e será inf
 Nome, ID, Peso, Altura, Tipo, Vida, Ataque e Defesa.
 
 No código, eu usei uma varíavel de Holder, para que ao clicar o botão\
-ela fosse concatenada diretamente na URL da API.
+ela fosse concatenada diretamente na URL da API, e deixando ela em Lower Case\
+para evitar problemas de procura.
 
 
 
