@@ -1,6 +1,7 @@
 # Documentação da API Pokemón
 
 Projeto foi feito com [React](https://github.com/facebook/create-react-app).
+E usado a API de [Pokemón](https://pokeapi.co).
 
 ## Available Scripts
 
