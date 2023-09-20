@@ -9,7 +9,7 @@ Usei [React](https://github.com/facebook/create-react-app) para criar um novo pr
 e nele fiz um vínculo direto na API do [Pokemón](https://pokeapi.co).\
 
 Com a conexão, o usuário consegue pesquisar o Pokemón que desejar e será informado os dados\
-Nome, ID, Peso, Altura, Tipo, Vida, Ataque e Defesa.\
+Nome, ID, Peso, Altura, Tipo, Vida, Ataque e Defesa.
 
 
 ### `npm start`
