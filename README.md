@@ -1,6 +1,6 @@
 # Documentação da API Pokemón
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Projeto foi feito com react [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
